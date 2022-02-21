@@ -11,7 +11,8 @@
 # データの出所
 選挙に関する変数 : 「選挙ドットコム」(https://go2senkyo.com/) 
 <br>
-議員報酬額に関する変数: 総務省「地方公務員給与実態調査」(https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/kyuuyo/kyuuyo_jc.html
+議員報酬額に関する変数: 総務省「地方公務員給与実態調査」(https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/kyuuyo/kyuuyo_jc.html)
+<br>
 市区町村の社会経済的変数 : 
 
 
